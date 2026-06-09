@@ -6,33 +6,6 @@ COURSE CODE: CSS 221
 PROGRAM: Bsc.ICTB2
 LECTURER: Mrs.BERTHA
 
-
-
-
-
-# University Course Guidance
-
-A web application that helps students explore universities and courses.
-
-## Features
-
-- User Registration
-- User Login
-- University Listing
-- Course Information
-- Career Guidance
-
-## Technologies Used
-
-- PHP
-- MySQL
-- HTML
-- CSS
-- Bootstrap
-
-## Screenshots
-
-### Login Page
 # University Course Guidance
 
 A web application that helps students explore universities and courses.
@@ -57,21 +30,13 @@ A web application that helps students explore universities and courses.
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](images/login.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](images/dashboard.png)
 
-### Universities
+### Login Page
 
-![Universities](screenshots/universities.png)
-![Login Page](screenshots/login.png)
+![Register Page](images/register.png)
 
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Universities
-
-![Universities](screenshots/universities.png)
